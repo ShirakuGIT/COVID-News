@@ -16,6 +16,7 @@ Requirements
  - SpeechRecognition
  - GTTS
  - PyAudio
+ - VLC
 
 You will also have to install other dependencies as per your OS. I have listed
 only the main libraries that will be used.
